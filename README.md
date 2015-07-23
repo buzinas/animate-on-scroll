@@ -1,4 +1,4 @@
-# AoS.js
+# AoS.js - The simplest JS scrolling library to combine with [animate.css](https://github.com/daneden/animate.css)
 
 Reveal CSS animation as you scroll down a page.
 Combine it with [animate.css](https://github.com/daneden/animate.css) animations.
@@ -26,7 +26,7 @@ Advantages:
 - JavaScript
 
 ```javascript
-new WOW().init();
+new AoS().init();
 ```
 
 ### Advanced usage
