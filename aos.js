@@ -6,7 +6,7 @@
       
       if (options) {
         this.useClass = options.useClass || this.useClass;
-        this.offset = options.offset || this.useClass;
+        this.offset = options.offset || this.offset;
       }
     }
     
