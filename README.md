@@ -35,7 +35,7 @@ new AoS().init();
 
 ```javascript
 var aos = new AoS({
-  useClass:     'aos',      // animated element css class (default is wow)
+  useClass:     'aos',      // animated element css class (default is aos)
   offset:       0          // distance to the element when triggering the animation (default is 0)
 });
 AoS.init();
