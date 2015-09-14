@@ -38,20 +38,5 @@ var aos = new AoS({
   useClass:     'aos',      // animated element css class (default is aos)
   offset:       0          // distance to the element when triggering the animation (default is 0)
 });
-AoS.init();
+aos.init();
 ```
-
-Enjoy!
-
-## Bug tracker
-
-If you find a bug, please report it [here on Github](https://github.com/buzinas/animateonscroll/issues)!
-
-## Developer
-
-Developed by Vitor Buzinaro, [Github Profile](//github.com/buzinas)
-
-
-## Contributors
-
-Thanks to everyone who has contributed to the project so far!
