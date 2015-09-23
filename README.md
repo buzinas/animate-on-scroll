@@ -1,4 +1,4 @@
-# AoS.js - The simplest JS scrolling library
+# AoS - The simplest JS scrolling library
 
 [Cick to see a live DEMO](https://buzinas.github.io/animate-on-scroll)
 
