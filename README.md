@@ -4,7 +4,7 @@ Reveal CSS animation as you scroll down a page. Combine it with [animate.css](ht
 ## Demo
 http://buzinas.github.io/animate-on-scroll
 
-## Advantages
+## Benefits
 - The smallest (0.4 Kb) and simplest (no configuration needed) library for that purpose
 
 ## Version
