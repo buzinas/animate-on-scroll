@@ -16,7 +16,7 @@ Reveal CSS animation as you scroll down a page. Combine it with [animate.css](ht
 
 ### Basic usage
 
-Put an attribute `aos` with the animation type you want, and the library will automatically animate it when it's visible in your webpage.
+Include an attribute `aos` in the HTMLElement you want, and the library will automatically animate it when it's visible in your webpage.
 
 ```html
   <section aos="pulse"></section>
