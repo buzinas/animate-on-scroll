@@ -4,16 +4,16 @@
 
 Reveal CSS animation as you scroll down a page. Combine it with [animate.css](https://github.com/daneden/animate.css) animations.
 
-## Advantages:
-- The smallest and simplest library for that purpose
+## Advantages
+- The smallest (0.4 Kb) and simplest (no configuration needed) library for that purpose
 
 ## Version
-2.0.1
+- 2.0.1
 
-### Dependencies
+## Dependencies
 - [animate.css](https://github.com/daneden/animate.css)
 
-### Basic usage
+## Basic usage
 1. Include an `aos` attribute into the tags you want to animate
 2. You can set it with any of the [animate.css](http://daneden.github.io/animate.css/) available animations
 3. The library will automatically reveal the animations when the element is visible
