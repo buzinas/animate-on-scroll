@@ -8,17 +8,15 @@ Reveal CSS animation as you scroll down a page. Combine it with [animate.css](ht
 - The smallest and simplest library for that purpose
 
 ## Version
-
 2.0.1
 
 ### Dependencies
 - [animate.css](https://github.com/daneden/animate.css)
 
 ### Basic usage
-
 Include an attribute `aos` in the HTMLElement you want, and the library will animate it when it gets visible in your page.
 
 ```html
-  <section aos="pulse"></section>
-  <span aos="fadeIn"></section>
+<section aos="pulse"></section>
+<span aos="fadeIn"></section>
 ```
