@@ -6,7 +6,7 @@ Reveal CSS animation as you scroll down a page.
 
 Combine it with [animate.css](https://github.com/daneden/animate.css) animations.
 
-Advantages:
+## Advantages:
 - The smallest and simplest library for that purpose
 
 ## Version
