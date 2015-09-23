@@ -1,6 +1,6 @@
 # AoS.js - The simplest JS scrolling library
 
-[Cick to see a live DEMO](https://buzinas.github.io/animateonscroll)
+[Cick to see a live DEMO](https://buzinas.github.io/animate-on-scroll)
 
 Reveal CSS animation as you scroll down a page. Combine it with [animate.css](https://github.com/daneden/animate.css) animations.
 
