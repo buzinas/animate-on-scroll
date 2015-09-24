@@ -8,7 +8,7 @@ http://buzinas.github.io/animate-on-scroll
 - The smallest (0.4 Kb) and simplest (no configuration needed) library for that purpose
 
 ## Version
-- 2.0.1
+- 2.1.0
 
 ## Dependencies
 - [animate.css](https://github.com/daneden/animate.css)
@@ -20,4 +20,9 @@ http://buzinas.github.io/animate-on-scroll
 ```html
 <section aos="pulse"></section>
 <span aos="fadeIn"></section>
+```
+You can set the `aos` attribute to `random`, and the library will choose a random animation for you.
+```html
+<div aos="random"></div>
+<div aos="random"></div>
 ```
