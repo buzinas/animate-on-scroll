@@ -54,3 +54,23 @@ div:nth-of-type(9) {
 div:nth-of-type(10) {
   background-color: gold;
 }
+
+div:nth-of-type(11) {
+  background-color: red;
+}
+
+div:nth-of-type(12) {
+  background-color: yellow;
+}
+
+div:nth-of-type(13) {
+  background-color: green;
+}
+
+div:nth-of-type(14) {
+  background-color: aqua;
+}
+
+div:nth-of-type(15) {
+  background-color: white;
+}
