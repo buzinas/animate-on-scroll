@@ -1,4 +1,4 @@
-# AoS - The simplest JS scrolling library
+# AoS - The simplest Javascript scrolling library
 Reveal CSS animation as you scroll down a page. Combine it with [animate.css](https://github.com/daneden/animate.css) animations.
 
 ## Demo
