@@ -21,6 +21,8 @@ http://buzinas.github.io/animate-on-scroll
 <section aos="pulse"></section>
 <span aos="fadeIn"></section>
 ```
+
+### Setting the `aos` attribute to `random`
 You can set the `aos` attribute to `random`, and the library will choose a random animation for you.
 ```html
 <div aos="random"></div>
