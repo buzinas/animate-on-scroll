@@ -1,14 +1,14 @@
-# AoS - The simplest JS scrolling library
-Reveal CSS animation as you scroll down a page. Combine it with [animate.css](https://github.com/daneden/animate.css) animations.
+# AoS
+Reveal CSS animations when scrolling down a page. Combine it with [animate.css](https://github.com/daneden/animate.css) animations.
 
 ## Demo
 http://buzinas.github.io/animate-on-scroll
 
 ## Benefits
-- The smallest (0.4 Kb) and simplest (no configuration needed) library for that purpose
+- The smallest (less than 1KB) and simplest (no configuration needed) library for that purpose
 
 ## Version
-- 2.0.1
+- 2.1.0
 
 ## Dependencies
 - [animate.css](https://github.com/daneden/animate.css)
@@ -20,4 +20,11 @@ http://buzinas.github.io/animate-on-scroll
 ```html
 <section aos="pulse"></section>
 <span aos="fadeIn"></section>
+```
+
+### Setting the `aos` attribute to `random`
+Let the library choose a random animation for you!
+```html
+<div aos="random"></div>
+<div aos="random"></div>
 ```
