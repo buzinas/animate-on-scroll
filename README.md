@@ -23,7 +23,7 @@ http://buzinas.github.io/animate-on-scroll
 ```
 
 ### Setting the `aos` attribute to `random`
-You can set the `aos` attribute to `random`, and the library will choose a random animation for you.
+Let the library choose a random animation for you!
 ```html
 <div aos="random"></div>
 <div aos="random"></div>
