@@ -1,5 +1,5 @@
-# AoS - The simplest animated scrolling library
-Reveal CSS animation as you scroll down a page. Combine it with [animate.css](https://github.com/daneden/animate.css) animations.
+# AoS
+Reveal CSS animations when scrolling down a page. Combine it with [animate.css](https://github.com/daneden/animate.css) animations.
 
 ## Demo
 http://buzinas.github.io/animate-on-scroll
